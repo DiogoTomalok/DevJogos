@@ -1,0 +1,50 @@
+[Linha para Unity]
+# Unity generated folders
+[Linha]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+
+# Visual Studio / Rider
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS / Editor settings
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*.orig
+*.tmp
+
+# Crash Reports
+sysinfo.txt
+
+# Unity cache
+*.apk
+*.aab
+*.ipa
+
+# Unity asset store tools
+Assets/AssetStoreTools*
+
+# Auto-generated
+*.mdb
+*.pdb
+
+# Ignore JetBrains IDE settings
+.idea/
+*.sln.iml
