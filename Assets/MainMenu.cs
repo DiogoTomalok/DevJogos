@@ -5,6 +5,6 @@ public class MainMenu : MonoBehaviour
 {
     public void StartGame()
     {
-        SceneManager.LoadScene("Game"); // substitua pelo nome real da cena do jogo
+        SceneManager.LoadScene("SampleScene"); // substitua pelo nome real da cena do jogo
     }
 }
